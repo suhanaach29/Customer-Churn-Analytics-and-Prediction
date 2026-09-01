@@ -205,7 +205,7 @@ Key metrics include:
 - High-Priority Customers
 - Average Risk Score
 
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](images/Executive Overview.png)
 
 ### Page 2 — Churn Drivers
 
