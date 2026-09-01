@@ -205,7 +205,6 @@ Key metrics include:
 - High-Priority Customers
 - Average Risk Score
 
-![Executive Overview](images/Executive Overview.png)
 
 ### Page 2 — Churn Drivers
 
@@ -218,7 +217,7 @@ Investigates churn patterns across customer characteristics including:
 - Overage Behaviour
 - Predictive Drivers
 
-![Churn Drivers](images/churn_drivers.png)
+
 
 ### Page 3 — Customer Segmentation & Risk
 
@@ -233,7 +232,7 @@ The page evaluates:
 - Risk by tenure
 - Revenue exposure by tenure
 
-![Customer Segmentation and Risk](images/customer_segmentation_risk.png)
+
 
 ### Page 4 — Predictive Churn Analysis
 
@@ -248,7 +247,6 @@ Compares machine-learning models and communicates predictive performance through
 - Accuracy vs Churn Recall
 - XGBoost Predictive Drivers
 
-![Predictive Churn Analysis](images/predictive_churn_analysis.png)
 
 ### Page 5 — Retention Strategy
 
@@ -262,8 +260,6 @@ Priority segments include:
 - Medium-priority customers with elevated churn and revenue exposure
 
 Recommended strategies include early intervention, onboarding support, loyalty incentives, personalised retention offers and targeted engagement.
-
-![Retention Strategy](images/retention_strategy.png)
 
 ---
 
